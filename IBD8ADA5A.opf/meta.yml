@@ -1,0 +1,24 @@
+id: IBD8ADA5A
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-05T20:04:09.802555'
+last_modified: '2022-06-05T20:04:09.802561'
+parser: null
+source_metadata:
+  title: Tamdrin Gönpo Series
+  language: bo
+  description: 'Texts by and about Tamdrin Gönpo (rta mgrin mgon po):'
+  volume:
+    f30E2:
+      title: 'Bright Light of the Sun: A Simple Fire Offering Based on a Single Substance'
+      base_file: f30E2.txt
+      order: 1
+      parent: Practices
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
